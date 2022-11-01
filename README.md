@@ -9,6 +9,7 @@ Supports Helm 3 only.
 You can use the action as follows:
 
 ```yaml
+jundaskjdasdnkjasjkndass
 on: push
 name: Validate
 jobs:
